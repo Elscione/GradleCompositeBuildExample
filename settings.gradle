@@ -1,0 +1,6 @@
+rootProject.name = 'GradleCompositeBuildExample'
+include 'kotlin:Calculator'
+findProject(':kotlin:Calculator')?.name = 'Calculator'
+include 'kotlin:MathUtil'
+findProject(':kotlin:MathUtil')?.name = 'MathUtil'
+
