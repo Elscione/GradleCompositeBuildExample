@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d229d8-242f-41b1-a852-cac46d287a36" name="Default Changelist" comment="Merge branch 'master' of https://github.com/Elscione/GradleCompositeBuildExample&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;build.gradle.kts&#10;#&#9;gradle/wrapper/gradle-wrapper.jar&#10;#&#9;gradle/wrapper/gradle-wrapper.properties&#10;#&#9;gradlew.bat&#10;#&#9;kotlin/Calculator/build.gradle.kts&#10;#&#9;kotlin/Calculator/gradle.properties&#10;#&#9;kotlin/Calculator/settings.gradle.kts&#10;#&#9;kotlin/Calculator/src/main/kotlin/Calculator.kt&#10;#&#9;kotlin/MathUtil/build.gradle.kts&#10;#&#9;kotlin/MathUtil/gradle.properties&#10;#&#9;kotlin/MathUtil/settings.gradle&#10;#&#9;settings.gradle">
-      <change beforePath="$PROJECT_DIR$/groovy" beforeDir="false" afterPath="$PROJECT_DIR$/groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/groovy/calculator/build/classes/groovy/main/com/sample/math/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/groovy/calculator/build/classes/groovy/main/com/sample/math/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/groovy/calculator/src/main/groovy/com/sample/math/Calculator.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/groovy/calculator/src/main/groovy/com/sample/math/Calculator.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -292,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571036734777</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add groovy">
+      <created>1571037771895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571037771895</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +313,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="groovy version" />
-    <option name="LAST_COMMIT_MESSAGE" value="groovy version" />
+    <MESSAGE value="add groovy" />
+    <option name="LAST_COMMIT_MESSAGE" value="add groovy" />
   </component>
 </project>
