@@ -1,3 +1,5 @@
+package com.example.math
+
 import java.util.*
 
 class StringEvaluator {
@@ -16,7 +18,7 @@ class StringEvaluator {
             while (i < tokens.size) {
                 if (tokens[i] in '0'..'9') {
                     val stringBuilder = StringBuilder()
-                    while (i < tokens.size && (tokens[i] in '0'..'9')) {
+                    while (i < tokens.size && (tokens[i] in '0'..'9' || tokens[i] == '.')) {
                         stringBuilder.append(tokens[i++])
                     }
                     values.push(stringBuilder.toString().toDouble())

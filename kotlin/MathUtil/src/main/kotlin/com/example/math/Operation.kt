@@ -1,3 +1,5 @@
+package com.example.math
+
 class Operation {
     companion object {
         fun add(a: Double, b: Double) = a + b
