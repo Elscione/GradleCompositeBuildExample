@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/kotlin/Calculator/.gradle/
+/kotlin/MathUtil/.gradle/
