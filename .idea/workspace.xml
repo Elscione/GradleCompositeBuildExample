@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d229d8-242f-41b1-a852-cac46d287a36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/mathutil/GradleCompositeBuildExample.mathutil.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/MathUtil/src/main/kotlin/com/example/math/Operation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/MathUtil/src/main/kotlin/com/example/math/StringEvaluator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groovy/calculator/build/classes/groovy/main/com/sample/math/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/groovy/calculator/build/classes/groovy/main/com/sample/math/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groovy/calculator/src/main/groovy/com/sample/math/Calculator.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/groovy/calculator/src/main/groovy/com/sample/math/Calculator.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/Calculator/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/Calculator/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/Calculator/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/Calculator/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/Calculator/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/Calculator/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/Calculator/src/main/kotlin/Calculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/Calculator/src/main/kotlin/Calculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/MathUtil/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/MathUtil/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/MathUtil/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/MathUtil/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/MathUtil/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/MathUtil/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +163,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/groovy" />
   </component>
   <component name="ProjectId" id="1S3N2yqz8e8Af2CFsrS5n6U1TOo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -290,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571036562919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="groovy version">
+      <created>1571036734777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571036734777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

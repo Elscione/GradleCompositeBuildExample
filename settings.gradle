@@ -10,3 +10,4 @@ findProject(':kotlin:Calculator')?.name = 'Calculator'
 include 'kotlin:MathUtil'
 findProject(':kotlin:MathUtil')?.name = 'MathUtil'
 
+include 'kotlin:Calculator'
